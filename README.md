@@ -9,8 +9,8 @@ Below is a curated list of our weekly modules, along with links to the module ma
 
 | **Week** | **Module**                                                                                                   | **Class Record** |
 |:--------:|-------------------------------------------------------------------------------------------------------------|:----------------:|
-| **#1**   | [Data Fundamentals and Web Scraping: Concepts, Tools, and Applications](Modul 0 - IT Collaboration)                                   | Coming Soon      |
-| **#2**   | [Data Management: Mastering Databases, Warehouses, and Data Lakes](Modul 1 - Data Fundamentals and Web Scraping)                                       | Coming Soon      |
+| **#1**   | [Data Fundamentals and Web Scraping: Concepts, Tools, and Applications](https://github.com/lifeatedmlab/GWE-2025/tree/9f6d25d69ab10dc1809cdf300599cec807d3271f/Modul%200%20-%20IT%20Collaboration)                                   | Coming Soon      |
+| **#2**   | [Data Management: Mastering Databases, Warehouses, and Data Lakes](https://github.com/lifeatedmlab/GWE-2025/tree/9f6d25d69ab10dc1809cdf300599cec807d3271f/Modul%201%20-%20Data%20Fundamentals%20and%20Web%20Scraping)                                      | Coming Soon      |
 | **#3**   | [Exploratory Data Analysis (EDA): Discovering Patterns and Insights](#)                                     | Coming Soon      |
 | **#4**   | [Data Preprocessing: Cleaning, Transformation, and Normalization](#)                                       | Coming Soon      |
 | **#5**   | [Data Visualization: Creating Impactful Insights with Tableau](#)                                          | Coming Soon      |
