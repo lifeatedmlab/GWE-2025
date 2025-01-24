@@ -10,7 +10,7 @@ Below is a curated list of our weekly modules, along with links to the module ma
 | **Week** | **Module**                                                                                                   | **Class Record** |
 |:--------:|-------------------------------------------------------------------------------------------------------------|:----------------:|
 | **#0**   | [IT Collaboration & How To Use Notebook](https://github.com/lifeatedmlab/GWE-2025/tree/fb283386e42a4869a350b904d30ee4442d7b7bcd/Modul%200%20-%20IT%20Collaboration)                                  | Coming Soon      |
-| **#1**   | [Data Fundamentals and Web Scraping: Concepts, Tools, and Applications](https://github.com/lifeatedmlab/GWE-2025/tree/9f6d25d69ab10dc1809cdf300599cec807d3271f/Modul%200%20-%20IT%20Collaboration)                                   | Coming Soon      |
+| **#1**   | [Data Fundamentals and Web Scraping: Concepts, Tools, and Applications](https://github.com/lifeatedmlab/GWE-2025/tree/40b363149413b6a3e8f25c1ca63a9c5ee9f13b70/Modul%201%20-%20Data%20Fundamentals%20and%20Web%20Scraping)                                   | Coming Soon      |
 | **#2**   | [Data Management: Mastering Databases, Warehouses, and Data Lakes](#)                                 | Coming Soon      |
 | **#3**   | [Exploratory Data Analysis (EDA): Discovering Patterns and Insights](#)                                     | Coming Soon      |
 | **#4**   | [Data Preprocessing: Cleaning, Transformation, and Normalization](#)                                       | Coming Soon      |
