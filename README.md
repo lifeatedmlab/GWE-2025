@@ -9,8 +9,8 @@ Below is a curated list of our weekly modules, along with links to the module ma
 
 | **Week** | **Module**                                                                                                   | **Class Record** |
 |:--------:|-------------------------------------------------------------------------------------------------------------|:----------------:|
-| **#1**   | [Data Fundamentals and Web Scraping: Concepts, Tools, and Applications](#)                                   | Coming Soon      |
-| **#2**   | [Data Management: Mastering Databases, Warehouses, and Data Lakes](#)                                       | Coming Soon      |
+| **#1**   | [Data Fundamentals and Web Scraping: Concepts, Tools, and Applications](Modul 0 - IT Collaboration)                                   | Coming Soon      |
+| **#2**   | [Data Management: Mastering Databases, Warehouses, and Data Lakes](Modul 1 - Data Fundamentals and Web Scraping)                                       | Coming Soon      |
 | **#3**   | [Exploratory Data Analysis (EDA): Discovering Patterns and Insights](#)                                     | Coming Soon      |
 | **#4**   | [Data Preprocessing: Cleaning, Transformation, and Normalization](#)                                       | Coming Soon      |
 | **#5**   | [Data Visualization: Creating Impactful Insights with Tableau](#)                                          | Coming Soon      |
