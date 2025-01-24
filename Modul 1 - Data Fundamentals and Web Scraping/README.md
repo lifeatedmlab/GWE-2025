@@ -1,4 +1,4 @@
-# Welcome to Modul 1 of GWE - Data Fundamentals and Web Scraping
+# Modul 1 of GWE - Data Fundamentals and Web Scraping
 
 <br>
 
