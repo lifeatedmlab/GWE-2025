@@ -12,13 +12,13 @@ Below is a curated list of our weekly modules, along with links to the module ma
 | **#0**   | [IT Collaboration & How To Use Notebook](https://github.com/lifeatedmlab/GWE-2025/tree/main/Modul%200%20-%20IT%20Collaboration)                              | -     |
 | **#1**   | [Data Fundamentals and Web Scraping: Concepts, Tools, and Applications](https://github.com/lifeatedmlab/GWE-2025/tree/main/Modul%201%20-%20Data%20Fundamentals%20and%20Web%20Scraping)                      | [Class Record - Google Drive](https://drive.google.com/file/d/1k379vqSeP-9lup9OKIjSDKbgPhE3-wJz/view?usp=sharing) |
 | **#2**   | [Data Management: Mastering Databases, Warehouses, and Data Lakes](https://github.com/lifeatedmlab/GWE-2025/tree/main/Modul%202%20-%20Data%20Management)                              | Coming Soon      |
-| **#3**   | [Exploratory Data Analysis (EDA): Discovering Patterns and Insights](#)                                     | Coming Soon      |
-| **#4**   | [Data Preprocessing: Cleaning, Transformation, and Normalization](#)                                       | Coming Soon      |
-| **#5**   | [Data Visualization: Creating Impactful Insights with Tableau](#)                                          | Coming Soon      |
-| **#6**   | [Machine Learning: Algorithms, Applications, and Model Evaluation](#)                                      | Coming Soon      |
-| **#7**   | [Deep Learning for Computer Vision: Techniques and Applications](#)                                        | Coming Soon      |
-| **#8**   | [Deep Learning for Text Mining: Sentiment Analysis and NLP Applications](#)                                | Coming Soon      |
-| **#9**   | [Deployment: Bringing Data Solutions to Production](#)                                                     | Coming Soon      |  
+| **#3**   | [Exploratory Data Analysis (EDA): Discovering Patterns and Insights]                                 | Coming Soon      |
+| **#4**   | [Data Preprocessing: Cleaning, Transformation, and Normalization]                                     | Coming Soon      |
+| **#5**   | [Data Visualization: Creating Impactful Insights with Tableau]                                       | Coming Soon      |
+| **#6**   | [Machine Learning: Algorithms, Applications, and Model Evaluation]                                    | Coming Soon      |
+| **#7**   | [Deep Learning for Computer Vision: Techniques and Applications]                                       | Coming Soon      |
+| **#8**   | [Deep Learning for Text Mining: Sentiment Analysis and NLP Applications]                               | Coming Soon      |
+| **#9**   | [Deployment: Bringing Data Solutions to Production]                                                  | Coming Soon      |  
 
 > Stay tuned as more modules are being developed and updated!  
 
