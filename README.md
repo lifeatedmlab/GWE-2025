@@ -24,8 +24,6 @@ Below is a curated list of our weekly modules, along with links to the module ma
 
 ---
 
----
-
 ## **Meet the Mentors** 👨‍🏫👩‍🏫  
 
 Our mentors are here to guide and support you throughout your data journey. Get to know them below!  
