@@ -40,7 +40,7 @@ Our mentors are here to guide and support you throughout your data journey. Get 
 | EVIE          | [dyahanggunnhp](https://github.com/dyahanggunnhp) |
 | KING          | [itsqal](https://github.com/itsqal) |
 
-💡 *Want to connect? Check out their GitHub profiles for more insights into their work!*  
+>💡 *Want to connect? Check out their GitHub profiles for more insights into their work!*  
 
 ---
 
