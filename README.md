@@ -24,6 +24,28 @@ Below is a curated list of our weekly modules, along with links to the module ma
 
 ---
 
+---
+
+## **Meet the Mentors** 👨‍🏫👩‍🏫  
+
+Our mentors are here to guide and support you throughout your data journey. Get to know them below!  
+
+| **Kode Mentor** | **Username GitHub**    |
+|:--------------:|:----------------------:|
+| ZIZI          | [ahmfzui](https://github.com/ahmfzui) |
+| ALVR          | [alvaroocls](https://github.com/alvaroocls) |
+| JHON          | [AriAnanta](https://github.com/AriAnanta) |
+| VLSN          | [vilsonnn](https://github.com/vilsonnn) |
+| MALE          | [MatthewSitorus](https://github.com/MatthewSitorus) |
+| NDOW          | [CuPid168](https://github.com/CuPid168) |
+| MAAZ          | [aliimron26](https://github.com/aliimron26) |
+| EVIE          | [dyahanggunnhp](https://github.com/dyahanggunnhp) |
+| KING          | [itsqal](https://github.com/itsqal) |
+
+💡 *Want to connect? Check out their GitHub profiles for more insights into their work!*  
+
+---
+
 ## About the GWE Initiative  
 
 The **GWE Study Group** is not just a series of classes—it’s a community for learners who are eager to dive deep into the data domain. With modules ranging from foundational data concepts to cutting-edge machine learning and deployment strategies, GWE aims to bridge the gap between theoretical knowledge and practical skills.  
