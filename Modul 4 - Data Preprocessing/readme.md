@@ -1,6 +1,6 @@
 # Modul 4 - Data Preprocessing: Cleaning, Transformation, and Normalization
 
-![alt text](asset/285d68dd-charts-1024x581.jpg)
+![alt text](asset/Data-Preprocessing.jpg)
 
 Di modul ini, kita bakal ngulik bareng soal **Data Preprocessing**, yaitu langkah penting sebelum data digunakan dalam analisis atau machine learning.
 
