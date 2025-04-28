@@ -2,7 +2,7 @@
 
 <br>
 
-![alt text](asset/Cloud hero 682x437.png)
+![alt text](asset/image.png)
 
 <br>
 
