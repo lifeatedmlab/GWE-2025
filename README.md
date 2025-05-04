@@ -16,8 +16,8 @@ Below is a curated list of our weekly modules, along with links to the module ma
 | **#4**   | [Data Preprocessing: Cleaning, Transformation, and Normalization](https://github.com/lifeatedmlab/GWE-2025/tree/main/Modul%204%20-%20Data%20Preprocessing)                                     | [Class Record - Google Drive](https://drive.google.com/file/d/1hHgbNaj0y3-d24A9bx73N1tPKTJUsJm_/view?usp=sharing)      |
 | **#5**   | [Data Visualization: Creating Impactful Insights with Tableau](https://github.com/lifeatedmlab/GWE-2025/tree/main/Modul%205%20-%20Data%20Visualization%20with%20Tableau)                                       | [Class Record - Google Drive](https://drive.google.com/file/d/1p0PhJyq2_tJnjBckRocD-lnc4JZB1ymU/view?usp=sharing)      |
 | **#6**   | [Machine Learning: Algorithms, Applications, and Model Evaluation](https://github.com/lifeatedmlab/GWE-2025/tree/main/Modul%206%20-%20Machine%20Learning)                                    | [Class Record - Google Drive](https://drive.google.com/file/d/1UHKxbTG111mt4rXFMfA4tTlNNbhQoMKm/view?usp=sharing)      |
-| **#7**   | [Deep Learning for Computer Vision: Techniques and Applications]                                       | Coming Soon      |
-| **#8**   | [Deep Learning for Text Mining: Sentiment Analysis and NLP Applications]                               | Coming Soon      |
+| **#7**   | [Deep Learning for Text Mining: Sentiment Analysis and NLP Applications]                                       | Coming Soon      |
+| **#8**   | [Deep Learning for Computer Vision: Techniques and Applications]                               | Coming Soon      |
 | **#9**   | [Deployment: Bringing Data Solutions to Production]                                                  | Coming Soon      |  
 
 > Stay tuned as more modules are being developed and updated!  
