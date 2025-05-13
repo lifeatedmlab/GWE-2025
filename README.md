@@ -1,9 +1,9 @@
 # GWE Study Group: Weekly Classes for Future Data Enthusiasts  
 
 <br>
-
-<img src="asset/logo.png" alt="logo" style="width:500px; height:auto;">
-
+<p align="center">
+  <img src="asset/logo.png" alt="logo" style="width:500px; height:auto;">
+</p>
 <br>
 
 Welcome to **GWE**, a weekly class program by EDM Laboratory designed for study group members and anyone passionate about exploring the world of data. We're also striving to reach a broader audience through this repository. Enjoy the materials, and we hope they help you on your data journey! 🚀  
