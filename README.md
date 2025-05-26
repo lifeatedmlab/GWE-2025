@@ -1,9 +1,9 @@
 # GWE Study Group: Weekly Classes for Future Data Enthusiasts  
 
 <br>
-
-![alt text](asset/logo.png)
-
+<p align="center">
+  <img src="asset/logo.png" alt="logo" style="width:500px; height:auto;">
+</p>
 <br>
 
 Welcome to **GWE**, a weekly class program by EDM Laboratory designed for study group members and anyone passionate about exploring the world of data. We're also striving to reach a broader audience through this repository. Enjoy the materials, and we hope they help you on your data journey! 🚀  
@@ -22,7 +22,7 @@ Below is a curated list of our weekly modules, along with links to the module ma
 | **#4**   | [Data Preprocessing: Cleaning, Transformation, and Normalization](https://github.com/lifeatedmlab/GWE-2025/tree/main/Modul%204%20-%20Data%20Preprocessing)                                     | [Class Record - Google Drive](https://drive.google.com/file/d/1hHgbNaj0y3-d24A9bx73N1tPKTJUsJm_/view?usp=sharing)      |
 | **#5**   | [Data Visualization: Creating Impactful Insights with Tableau](https://github.com/lifeatedmlab/GWE-2025/tree/main/Modul%205%20-%20Data%20Visualization%20with%20Tableau)                                       | [Class Record - Google Drive](https://drive.google.com/file/d/1p0PhJyq2_tJnjBckRocD-lnc4JZB1ymU/view?usp=sharing)      |
 | **#6**   | [Machine Learning: Algorithms, Applications, and Model Evaluation](https://github.com/lifeatedmlab/GWE-2025/tree/main/Modul%206%20-%20Machine%20Learning)                                    | [Class Record - Google Drive](https://drive.google.com/file/d/1UHKxbTG111mt4rXFMfA4tTlNNbhQoMKm/view?usp=sharing)      |
-| **#7**   | [Deep Learning for Text Mining: Sentiment Analysis and NLP Applications]                                       | Coming Soon      |
+| **#7**   | [Deep Learning for Text Mining: Sentiment Analysis and NLP Applications](https://github.com/lifeatedmlab/GWE-2025/tree/main/Modul%207%20-%20Natural%20Language%20Processing)                                       |[Class Record - Google Drive](https://drive.google.com/file/d/1ScVPhNv_gvvFK1GHVZIwvE-8ywR8NJia/view?usp=sharing)  |
 | **#8**   | [Deep Learning for Computer Vision: Techniques and Applications]                               | Coming Soon      |
 | **#9**   | [Deployment: Bringing Data Solutions to Production]                                                  | Coming Soon      |  
 
