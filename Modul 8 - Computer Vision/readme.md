@@ -2,7 +2,7 @@
 
 <br>
 
-![alt text](asset/image.png)
+![alt text](asset/image.jpg)
 
 <br>
 
